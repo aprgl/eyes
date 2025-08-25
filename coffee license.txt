@@ -1,0 +1,9 @@
+/*
+ * ------------------------------------------------------------
+ * "THE COFFEEWARE LICENSE" (Revision 42.5):
+ * Shaun Kinetic (@aprgl) made this mess. As long as you retain
+ * this notice, you can do whatever you want with it. If we
+ * meet someday, and you think this stuff is worth it, you can
+ * buy me a coffee in return.
+ * ------------------------------------------------------------
+ */
