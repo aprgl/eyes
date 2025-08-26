@@ -1,5 +1,5 @@
 # eyes
-Simple ESP32 based eyes using a smart watch display
+Simple ESP32 based eyes using a smart watch display - [Hackaday.io project link](https://hackaday.io/project/203882-simple-eyes-from-smartwatch-displays)
 
 https://github.com/user-attachments/assets/1ac2642b-cd37-4aac-a159-ac74730e4304
 
