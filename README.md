@@ -47,3 +47,14 @@ Crystal Clear Epoxy - I tried different epoxy first but I think temperature in t
 
 # Odd limitations
 There's a memory page limit(?) which restricts the array to 220 x 220 pixels. This is probably something that can be fixed or worked around in another way, but I just used a 220x220 centered frame then filled the outer 20pixels with black. When the eye is not cast in epoxy it's pretty visible but once embedded it's difficult to catch.
+
+# On sizing
+These were designed to be ~2.5 inches in diameter to match the crow sculpture, but you can also easily cast them to the size of the display, but image distortion becomes more extreme.
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8c4b0e7b-7a1b-4894-81fb-5245b72231ef" />
+
+https://github.com/user-attachments/assets/5ad7966f-8501-4ab5-84a5-cbe7d02d3794
+
+Early prototype at 2.5in without the blackout ring
+
+https://github.com/user-attachments/assets/372a0f02-9d6a-4748-b7be-2dab7a12879a
