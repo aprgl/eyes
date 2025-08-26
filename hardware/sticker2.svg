@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="11in"
+   viewBox="0 0 508.00001 279.4"
+   version="1.1"
+   id="svg1085"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1082">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path823" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path826" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path828" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path830" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g975"
+       transform="matrix(0.26458334,0,0,0.26458334,246.91504,-164.39748)">
+      <g
+         id="g837" />
+      <g
+         id="g839" />
+      <g
+         id="g841" />
+      <g
+         id="g843" />
+      <g
+         id="g845" />
+      <g
+         id="g847" />
+      <g
+         id="g849" />
+      <g
+         id="g851" />
+      <g
+         id="g853" />
+      <g
+         id="g855" />
+      <g
+         id="g857" />
+      <g
+         id="g859" />
+      <g
+         id="g861" />
+      <g
+         id="g863" />
+      <g
+         id="g865" />
+      <g
+         id="g867" />
+      <g
+         id="g869" />
+      <g
+         id="g871" />
+      <g
+         id="g873" />
+      <g
+         id="g875" />
+      <g
+         id="g877" />
+      <g
+         id="g879" />
+      <g
+         id="g881" />
+      <g
+         id="g883" />
+      <g
+         id="g885" />
+      <g
+         id="g887" />
+      <g
+         id="g889" />
+      <g
+         id="g891" />
+      <g
+         id="g893" />
+      <g
+         id="g895" />
+      <g
+         id="g901">
+        <path
+           d="m 60.96,1122.5197 a 60.96,60.96 0 1 0 -121.92,0 60.96,60.96 0 1 0 121.92,0 z"
+           style="fill:none;stroke:#000000"
+           id="path897" />
+        <path
+           d="m 120,1122.5197 a 120,120 0 1 0 -240,0 120,120 0 1 0 240,0 z"
+           style="fill:none;stroke:#000000"
+           id="path899" />
+      </g>
+      <g
+         id="g903" />
+      <g
+         id="g905" />
+      <g
+         id="g907" />
+      <g
+         id="g909" />
+      <g
+         id="g911" />
+      <g
+         id="g913" />
+      <g
+         id="g915" />
+      <g
+         id="g917" />
+      <g
+         id="g919" />
+    </g>
+  </g>
+</svg>
