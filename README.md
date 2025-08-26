@@ -46,5 +46,4 @@ Crystal Clear Epoxy - I tried different epoxy first but I think temperature in t
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7640b05d-fe77-4e17-a105-37df7b5d5a5b" />
 
 # Odd limitations
-There's a memory page limit at
-
+There's a memory page limit(?) which restricts the array to 220 x 220 pixels. This is probably something that can be fixed or worked around in another way, but I just used a 220x220 centered frame then filled the outer 20pixels with black. When the eye is not cast in epoxy it's pretty visible but once embedded it's difficult to catch.
